@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz Game</title>
+</head>
+<body>
+  <h1>Quiz Game</h1>
+  <div id="question-container"></div>
+  <div id="score-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
